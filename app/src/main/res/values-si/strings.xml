@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Traccar Client</string>
+  <string name="app_logo">Traccar</string>
+  <string name="settings_id_title">උපකරණ හඳුන්වනය</string>
+  <string name="settings_interval_title">සංඛ්‍යාතය</string>
+  <string name="settings_status_title">සේවා තත්වය</string>
+  <string name="settings_status_off">ඇරැඹීම</string>
+  <string name="settings_status_on">නැවතීම</string>
+  <string name="settings_status_off_summary">සේවාව අක්‍රීයයි</string>
+  <string name="settings_status_on_summary">සේවාව ක්‍රියාත්මකයි</string>
+  <string name="settings_foreground_title">Foreground service</string>
+  <string name="settings_foreground_summary">Increase service priority</string>
+  <string name="menu_status">තත්වය</string>
+  <string name="menu_shortcuts">කෙටි මං එකතු කරන්න</string>
+  <string name="menu_clear">හිස් කරන්න</string>
+  <string name="status_send_fail">යැවිය නොහැකිය</string>
+  <string name="status_location_update">Location update</string>
+  <string name="hidden_app_name">උපකරණ සැකසුම්</string>
+</resources>
